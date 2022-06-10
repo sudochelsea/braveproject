@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "business-resources.component.scss"
+    ],
+    "names": [],
+    "file": "business-resources.component.css"
+}
